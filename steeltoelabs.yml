@@ -1,7 +1,7 @@
 AppInfo:
-    name: steeltoelabs
-    purpose: 'This is to demostrate an external configuration to be used inside PCF environment.'
-    author: 'Ted Borlongan'
-    title: 'Lead Developer'
-    company: Magenic
-    copyright: 2019
+    Name: steeltoelabs
+    Purpose: 'This is to demostrate an external configuration to be used inside PCF environment.'
+    Author: 'Ted Borlongan'
+    Title: 'Lead Developer'
+    Company: Magenic
+    Copyright: 2019
